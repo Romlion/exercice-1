@@ -1,1 +1,1 @@
-# exercice-1
+# npm-exercice-1
